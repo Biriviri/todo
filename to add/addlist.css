@@ -1,0 +1,17 @@
+.right{
+float: right;
+	width: 75%;
+ background: rgba(217, 217, 217, 0.3);;
+height: auto;
+}
+.left{
+	float: left;
+	background-color: blue;
+
+	width: 25%;
+	height: auto;
+
+	.body {
+	  background-image: url("backg.jpg");
+		background-size: cover;
+	}
